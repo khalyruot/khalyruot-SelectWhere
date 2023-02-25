@@ -1,2 +1,2 @@
-SELECT * FROM employee
+SELECT * from employee
 WHERE last_name = 'Smith';
